@@ -1,2 +1,2 @@
 # baking-website
-created my instance and started on the HTML and CSS coding for my website.
+My project is a small baking website hosted on a small AWS EC2 instance.

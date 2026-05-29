@@ -1,2 +1,2 @@
 # baking-website
-My project is a small baking website hosted on a small AWS EC2 instance.
+I have used a free HTML and CSS template to help structure my website.

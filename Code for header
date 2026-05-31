@@ -1,0 +1,27 @@
+<header>
+    <h1>Molly's Baking Corner</h1>
+    <p>ICT171 Project</p>
+    <p>Student Name: Molly Pedrana | Student ID: 35747247</p>
+</header>
+
+<nav>
+    <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#recipes">Recipes</a></li>
+        <li><a href="#references">References</a></li>
+    </ul>
+</nav>
+
+<main>
+    <section id="about">
+        <h2>About This Project</h2>
+        <p>
+            This website was created for the ICT171 Project to demonstrate hosting and creating a simple site
+            on a small AWS EC2 instance. The goal is to show how a lightweight HTML/CSS IaaS site can be made
+            into a cute, simple baking site.
+        </p>
+        <p>
+            This site consists of three easy baking recipes perfect for beginners!
+        </p>
+    </section>
+</main>

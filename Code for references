@@ -1,0 +1,25 @@
+<section id="references">
+    <h2>References</h2>
+    <ul class="reference-list">
+        <li>
+            <em>HTML elements reference.</em> (2019, June 6). MDN Web Docs.
+            <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element" target="_blank">
+                https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+            </a>
+        </li>
+
+        <li>
+            W3Schools (2024). <em>HTML Template.</em> W3Schools.com.
+            <a href="https://www.w3schools.com/w3css/w3css_templates.asp" target="_blank">
+                https://www.w3schools.com/w3css/w3css_templates.asp
+            </a>
+        </li>
+
+        <li>
+            Taste of Home Editors. <em>Chocolate Chip Cookies.</em> Taste of Home.
+            <a href="https://www.tasteofhome.com/recipes/chocolate-chip-cookies/" target="_blank">
+                https://www.tasteofhome.com/recipes/chocolate-chip-cookies/
+            </a>
+        </li>
+    </ul>
+</section>

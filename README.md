@@ -1,3 +1,3 @@
 # baking-website
 
-Domain name for website: http://mollysbakingcorner.duckdns.org/
+Domain name for website: http://mollysbakingcorner.com/
